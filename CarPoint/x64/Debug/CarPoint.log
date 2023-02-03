@@ -1,0 +1,28 @@
+﻿  main.cpp
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(37,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(37,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(38,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(38,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(39,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(69,49): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(69,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(117,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(118,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(120,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(133,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(139,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(140,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(154,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(160,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(166,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(235,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(236,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(298,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(298,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(298,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(351,124): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\phamh\Downloads\Compressed\CarPoint\CarPoint\main.cpp(352,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  point.cpp
+  Generating Code...
+  CarPoint.vcxproj -> C:\Users\phamh\Downloads\Compressed\CarPoint\x64\Debug\CarPoint.exe
+          1 file(s) copied.
